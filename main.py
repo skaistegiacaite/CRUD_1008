@@ -63,6 +63,4 @@ while True:
             print("jus pasirinkote iseiti")
             break
 
-git config -- global skaistegiacaite.email 's.giacaite@gmail.com'
-git config -- global user.name 'sgiacaite'
 
